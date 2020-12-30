@@ -1,0 +1,22 @@
+{
+    "name": "motor",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "servo": "*",
+        "devices": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
